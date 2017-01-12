@@ -1,0 +1,4 @@
+applications:
+- command: node app.js
+  buildpack: nodejs_buildpack
+  
